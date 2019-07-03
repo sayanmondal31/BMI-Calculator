@@ -1,6 +1,6 @@
 # bmicalculator
 
-A new Flutter project.
+<img src=https://user-images.githubusercontent.com/43213197/60587713-bea90c00-9db2-11e9-90f2-d78f08b157e2.gif width=40%>
 
 ## Getting Started
 
